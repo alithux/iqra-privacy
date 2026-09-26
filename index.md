@@ -4,7 +4,7 @@ title: Iqra — Privacy Policy
 
 # Iqra — Privacy Policy
 
-**Last updated: 20 September 2026**
+**Last updated: 27 September 2026**
 
 Iqra is a prayer times, Quran, adhkar and qibla app for the Maldives.
 
@@ -40,8 +40,15 @@ Iqra works offline. It reaches out to the internet in only two places:
 
 Like any web request, these servers can see the internet (IP) address your
 request comes from, and may keep their own logs. Iqra sends them nothing
-else — no name, no account, no device identifier, and nothing about what
-you read or when you pray. We do not receive those logs.
+else — no name, no account and no device identifier.
+
+An audio request names the ayah you are playing and the reciter you picked,
+because that is how the file is fetched: everyayah.com is asked for that one
+recording. Nothing else about what you read leaves the phone — the Quran
+text and its translation are built into the app, so reading is never a
+request — and nothing about when you pray leaves it either. The hadith
+request says only which collection it is for, and nothing about you. We do
+not receive any of those logs.
 
 ## Location
 
